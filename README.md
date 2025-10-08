@@ -64,7 +64,7 @@ const lahico = {
 
 <div align="center">
 
-![Trophées]([https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA](https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6))
+[![Trophies](https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&exclude=Issues,PullRequest&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -102,9 +102,12 @@ const lahico = {
 
 
 <div align="center">
+    
+---
 
 *"La nuit, devant mon chaudron, je fais de la magie."*
 
+---
 
 **⭐ Si tu aimes mes projets, n'hésite pas à laisser une étoile ! ⭐**
 
