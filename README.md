@@ -73,8 +73,8 @@ const lahico = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlacideLinkpehoun&repo=Block_Collide&theme=tokyonight&hide_border=true)](https://github.com/PlacideLinkpehoun/Block_Collide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlacideLinkpehoun&repo=Pasty_cut&theme=tokyonight&hide_border=true)](https://github.com/PlacideLinkpehoun/Pasty_cut)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Placidelinkpehoun&repo=Block_Collide&theme=tokyonight&hide_border=true)](https://github.com/Placidelinkpehoun/Block_Collide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Placidelinkpehoun&repo=Pasty_cut&theme=tokyonight&hide_border=true)](https://github.com/Placidelinkpehoun/Pasty_cut)
 
 </div>
 
