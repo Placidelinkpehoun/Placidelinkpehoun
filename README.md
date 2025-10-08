@@ -15,7 +15,6 @@ Thème : sombre / tech / créatif
 
 </div>
 
----
 
 ## 🧠 À propos de moi
 
@@ -28,10 +27,6 @@ const lahico = {
     funFact: "J'ai des pixels dans les yeux"
 };
 ```
-
-> 💡 **Ma philosophie** : Fusionner **programmation**, **design** et **illustration** pour créer des univers interactifs qui captivent et inspirent.  
-> Je ne développe pas juste des jeux ou des apps — je crée des **expériences**.
-
 <!--
 <details>
 <summary>📚 En savoir plus sur mon parcours</summary>
@@ -45,7 +40,6 @@ const lahico = {
 </details>
 -->
 
----
 
 ## 🛠️ Stack Technique
 
@@ -53,7 +47,6 @@ const lahico = {
   <img src="https://skillicons.dev/icons?i=unity,godot,cs,python,js,react,nextjs,django,express,ps,ai,figma,visualstudio,vscode,git,github&perline=8" />
 </p>
 
----
 
 ## 📊 Statistiques GitHub
 
@@ -66,17 +59,15 @@ const lahico = {
 
 </div>
 
----
 
 ## 🏆 Trophées GitHub
 
 <div align="center">
 
-![Trophées](https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA)
+![Trophées]([https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA](https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6))
 
 </div>
 
----
 
 ## 🎯 Projets Épinglés
 
@@ -87,7 +78,6 @@ const lahico = {
 
 </div>
 
----
 
 ## 📫 Me contacter
 
@@ -110,17 +100,13 @@ const lahico = {
 
 </div>
 
----
 
 <div align="center">
 
-### 💭 Citation du moment
+*"La nuit, devant mon chaudron, je fais de la magie."*
 
-*"Le code est de la poésie, le design est de l'art, et ensemble, ils créent de la magie."*
 
----
-
-**⭐ Si tu aimes mes projets, n'hésite pas à laisser une étoile !**
+**⭐ Si tu aimes mes projets, n'hésite pas à laisser une étoile ! ⭐**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
