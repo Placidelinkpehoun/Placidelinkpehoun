@@ -111,6 +111,20 @@ const lahico = {
 
 **⭐ Si tu aimes mes projets, n'hésite pas à laisser une étoile ! ⭐**
 
+<table align="center">
+  <tbody>
+    <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Placidelinkpehoun/Placidelinkpehoun/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Placidelinkpehoun/Placidelinkpehoun/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Placidelinkpehoun/Placidelinkpehoun/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+</tbody>
+</table>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
