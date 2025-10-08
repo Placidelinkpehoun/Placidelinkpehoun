@@ -35,51 +35,22 @@ const lahico = {
 <!--
 <details>
 <summary>📚 En savoir plus sur mon parcours</summary>
-<br
+<br>
 
 - 🎓 Recherche continue en développement de jeux vidéo
-- 🚀 Constamment à l'affût des nouvelles technologies et tendance
+- 🚀 Constamment à l'affût des nouvelles technologies et tendances
 - 🌱 Actuellement en apprentissage : Shader programming & Advanced Unity techniques
 - ⚡ Fun fact : J'ai commencé par dessiner avant de coder !
 
 </details>
 -->
 
+---
 
 ## 🛠️ Stack Technique
 
-### 🎮 Game Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-</p>
-
-### 💻 Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### 🎨 Design & Creative Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### ⚙️ Outils & Environnement
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,cs,python,js,react,nextjs,django,express,ps,ai,figma,visualstudio,vscode,git,github&perline=8" />
 </p>
 
 ---
@@ -101,7 +72,7 @@ const lahico = {
 
 <div align="center">
 
-![Trophées](https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![Trophées](https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA)
 
 </div>
 
@@ -113,16 +84,6 @@ const lahico = {
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlacideLinkpehoun&repo=Block_Collide&theme=tokyonight&hide_border=true)](https://github.com/PlacideLinkpehoun/Block_Collide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlacideLinkpehoun&repo=Pasty_cut&theme=tokyonight&hide_border=true)](https://github.com/PlacideLinkpehoun/Pasty_cut)
-
-</div>
-
----
-
-## 🎨 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/PlacideLinkpehoun/PlacideLinkpehoun/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
