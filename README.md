@@ -23,28 +23,28 @@ Thème : sombre / tech / créatif
 const lahico = {
     role: "Développeur de jeux vidéo & Créatif numérique",
     location: "🌍 Quelque part entre le code et l'art",
-    passions: ["Game Development", "Web Development", "Digital Art", "UI/UX Design"],
+    passions: ["Game Development", "Digital Art"],
     currentFocus: "Créer des expériences interactives mémorables",
-    funFact: "Je transforme le café en code et en pixels ☕→💻"
+    funFact: "J'ai des pixels dans les yeux"
 };
 ```
 
 > 💡 **Ma philosophie** : Fusionner **programmation**, **design** et **illustration** pour créer des univers interactifs qui captivent et inspirent.  
 > Je ne développe pas juste des jeux ou des apps — je crée des **expériences**.
 
+<!--
 <details>
 <summary>📚 En savoir plus sur mon parcours</summary>
-<br>
+<br
 
-- 🎓 Formation continue en développement de jeux vidéo et web
-- 🚀 Constamment à l'affût des nouvelles technologies et tendances
-- 🎯 Objectif 2025 : Lancer mon premier jeu indépendant
+- 🎓 Recherche continue en développement de jeux vidéo
+- 🚀 Constamment à l'affût des nouvelles technologies et tendance
 - 🌱 Actuellement en apprentissage : Shader programming & Advanced Unity techniques
 - ⚡ Fun fact : J'ai commencé par dessiner avant de coder !
 
 </details>
+-->
 
----
 
 ## 🛠️ Stack Technique
 
@@ -111,8 +111,8 @@ const lahico = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlacideLinkpehoun&repo=nom-du-projet-1&theme=tokyonight&hide_border=true)](https://github.com/PlacideLinkpehoun/nom-du-projet-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlacideLinkpehoun&repo=nom-du-projet-2&theme=tokyonight&hide_border=true)](https://github.com/PlacideLinkpehoun/nom-du-projet-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlacideLinkpehoun&repo=Block_Collide&theme=tokyonight&hide_border=true)](https://github.com/PlacideLinkpehoun/Block_Collide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlacideLinkpehoun&repo=Pasty_cut&theme=tokyonight&hide_border=true)](https://github.com/PlacideLinkpehoun/Pasty_cut)
 
 </div>
 
