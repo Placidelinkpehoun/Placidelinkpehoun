@@ -3,7 +3,7 @@
 Thème : sombre / tech / créatif 
 -->
 
-<h1 align="center">👋 Salut, moi c’est <span style="color:#00BFFF;">Placide Linkpehoun</span></h1>
+<h1 align="center">Salut, moi c’est <span style="color:#00BFFF;">Lahico</span></h1>
 
 <p align="center">
 🎮 <strong>Développeur de jeux vidéo junior</strong> • 💻 <strong>Créatif numérique</strong> • 🎨 <strong>Illustrateur digital</strong>
