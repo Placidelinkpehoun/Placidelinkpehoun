@@ -5,7 +5,7 @@ Thème : sombre / tech / créatif
 
 <div align="center">
 
-# 👋 Salut, moi c'est <span style="color:#00BFFF;">Lahico</span>
+# Salut, moi c'est <span style="color:#00BFFF;">Lahico</span>
 
 ### 🎮 Développeur de jeux vidéo junior • 💻 Créatif numérique • 🎨 Illustrateur digital
 
