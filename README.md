@@ -27,7 +27,7 @@ Thème : sombre / tech / créatif
 ### 🛠️ Langages & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,python,js,react,nextjs,django,express,c++,unity,godot,illustrator,photoshop,aseprite,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=csharp,python,js,react,nextjs,django,express,c++,unity,godot,illustrator,photoshop,aseprite,visualstudio,vscode,git" />
 </p>
 
 ---
