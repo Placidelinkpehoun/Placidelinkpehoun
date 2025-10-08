@@ -27,7 +27,7 @@ Thème : sombre / tech / créatif
 ### 🛠️ Langages & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,python,js,react,nextjs,django,express,unity,godot,illustrator,photoshop,aseprite,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=csharp,python,js,react,nextjs,django,express,c#,unity,godot,illustrator,photoshop,aseprite,vscode,git" />
 </p>
 
 ---
@@ -61,10 +61,3 @@ Thème : sombre / tech / créatif
     <img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
-
----
-
-> 💬 *“Créer, c’est traduire des émotions en code et en couleurs.”*
-
----
-
