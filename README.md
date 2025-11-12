@@ -51,22 +51,9 @@ const lahico = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlacideLinkpehoun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PlacideLinkpehoun&theme=tokyonight&hide_border=true" />
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlacideLinkpehoun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=PlacideLinkpehoun&theme=tokyonight&no-frame=true&no-bg=true&exclude=Issues,PullRequest&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 
 ## 🎯 Projets Épinglés
 
