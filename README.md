@@ -70,7 +70,7 @@ const lahico = {
 
 <div align="center">
 
-**💬 Je suis toujours ouvert aux collaborations créatives et aux projets innovants !**
+**💬 Je suis toujours ouvert aux collaborations créatives**
 
 <a href="https://github.com/PlacideLinkpehoun">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -90,10 +90,6 @@ const lahico = {
 
 <div align="center">
     
----
-
-*"La nuit, devant mon chaudron, je fais de la magie."*
-
 ---
 
 **⭐ Si tu aimes mes projets, n'hésite pas à laisser une étoile ! ⭐**
