@@ -39,7 +39,7 @@ const lahico = {
 </details>
 -->
 
-
+<!--
 ## 🛠️ Stack Technique
 
 <p align="center">
@@ -54,12 +54,13 @@ const lahico = {
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlacideLinkpehoun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
+-->
 
 ## 🎯 Projets Épinglés
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Placidelinkpehoun&repo=Block_Collide&theme=tokyonight&hide_border=true)](https://github.com/Placidelinkpehoun/Block_Collide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Placidelinkpehoun&repo=Bloc-game-Unity&theme=tokyonight&hide_border=true)](https://github.com/Placidelinkpehoun/Bloc-game-Unity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Placidelinkpehoun&repo=Pasty_cut&theme=tokyonight&hide_border=true)](https://github.com/Placidelinkpehoun/Pasty_cut)
 
 </div>
