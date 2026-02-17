@@ -56,6 +56,7 @@ const lahico = {
 </div>
 -->
 
+<!--
 ## 🎯 Projets Épinglés
 
 <div align="center">
@@ -64,7 +65,7 @@ const lahico = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Placidelinkpehoun&repo=Pasty_cut&theme=tokyonight&hide_border=true)](https://github.com/Placidelinkpehoun/Pasty_cut)
 
 </div>
-
+-->
 
 ## 📫 Me contacter
 
@@ -90,7 +91,6 @@ const lahico = {
 
 <div align="center">
     
----
 
 **⭐ Si tu aimes mes projets, n'hésite pas à laisser une étoile ! ⭐**
 
