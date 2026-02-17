@@ -13,12 +13,12 @@ Thème : sombre / tech / créatif
 </div>
 
 
-## 🧠 À propos de moi
+## À propos de moi
 
 ```javascript
 const lahico = {
     role: "Développeur de jeux vidéo & Créatif numérique",
-    location: "🌍 Quelque part entre le code et l'art",
+    location: "Quelque part entre le code et l'art",
     passions: ["Game Development", "Digital Art"],
     currentFocus: "Créer des expériences interactives mémorables",
     funFact: "J'ai des pixels dans les yeux"
@@ -65,11 +65,11 @@ const lahico = {
 </div>
 -->
 
-## 📫 Me contacter
+## Me contacter
 
 <div align="center">
 
-**💬 Je suis toujours ouvert aux collaborations créatives**
+**Je suis toujours ouvert aux collaborations créatives**
 
 <a href="https://github.com/PlacideLinkpehoun">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
