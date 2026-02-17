@@ -5,8 +5,6 @@ Thème : sombre / tech / créatif
 
 <div align="center">
 
-# Salut, moi c'est <span style="color:#00BFFF;">Lahico</span>
-
 ### 🎮 Développeur de jeux vidéo junior • 💻 Créatif numérique • 🎨 Illustrateur digital
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;Digital+Artist+%F0%9F%8E%A8;Code+%2B+Design+%3D+Creativity+%F0%9F%9A%80" alt="Typing animation" />
