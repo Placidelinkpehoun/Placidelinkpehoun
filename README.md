@@ -5,9 +5,10 @@ Thème : sombre / tech / créatif
 
 <div align="center">
 
-### 🎮 Développeur de jeux vidéo junior • 💻 Créatif numérique • 🎨 Illustrateur digital
+<!-- ### 🎮 Développeur de jeux vidéo junior • 💻 Créatif numérique • 🎨 Illustrateur digital -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;Digital+Artist+%F0%9F%8E%A8;Code+%2B+Design+%3D+Creativity+%F0%9F%9A%80" alt="Typing animation" />
+<!--
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;Digital+Artist+%F0%9F%8E%A8;Code+%2B+Design+%3D+Creativity+%F0%9F%9A%80" alt="Typing animation" /> -->
 
 
 </div>
@@ -17,7 +18,7 @@ Thème : sombre / tech / créatif
 
 ```javascript
 const lahico = {
-    role: "Développeur de jeux vidéo & Créatif numérique",
+    role: "Web dev & Game dev",
     location: "Quelque part entre le code et l'art",
     passions: ["Game Development", "Digital Art"],
     currentFocus: "Créer des expériences interactives mémorables",
@@ -74,13 +75,15 @@ const lahico = {
 <a href="https://github.com/PlacideLinkpehoun">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/tonprofil">
+<a href="https://www.linkedin.com/in/placide-linkpehoun-584157290/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<!--
 <a href="https://tonportfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="mailto:ton.email@example.com">
+-->
+<a href="mailto:placidelinkpehoun@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
