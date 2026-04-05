@@ -94,7 +94,7 @@ const lahico = {
     
 ##
 **⭐ Si tu aimes mes projets, n'hésite pas à laisser une étoile ! ⭐**
-<!--
+
 <table align="center">
   <tbody>
     <tr>
@@ -108,7 +108,7 @@ const lahico = {
   </tr>
 </tbody>
 </table>
--->
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
