@@ -16,6 +16,7 @@ Thème : sombre / tech / créatif
 
 ## À propos de moi
 
+```javascript
 const lahico = {
     role: "Web dev & Game dev",
     location: "Quelque part entre le code et l'art",
@@ -23,6 +24,7 @@ const lahico = {
     currentFocus: "Créer des expériences interactives mémorables",
     funFact: "J'ai des pixels dans les yeux"
 };
+```
 <!--
 <details>
 <summary>📚 En savoir plus sur mon parcours</summary>
@@ -58,8 +60,8 @@ const lahico = {
 
 <div align="center">
 
-![Readme Card (→ github-readme-stats.vercel.app)](https://github.com/Placidelinkpehoun/Bloc-game-Unity)
-![Readme Card (→ github-readme-stats.vercel.app)](https://github.com/Placidelinkpehoun/Pasty_cut)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Placidelinkpehoun&repo=Bloc-game-Unity&theme=tokyonight&hide_border=true)](https://github.com/Placidelinkpehoun/Bloc-game-Unity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Placidelinkpehoun&repo=Pasty_cut&theme=tokyonight&hide_border=true)](https://github.com/Placidelinkpehoun/Pasty_cut)
 
 </div>
 -->
@@ -91,7 +93,7 @@ const lahico = {
 <div align="center">
     
 ##
-**⭐ Si tu aimes mes projets, n'hésite pas à laisser une étoile ! ⭐**
+
 
 <table align="center">
   <tbody>
