@@ -24,8 +24,9 @@ BIO = ["I enjoy working on creative", "projects that draw on both my", "coding a
        "interested in video game", "development and build various", "projects in my free time."]
 THEMES = {"dark": "#E6EDF3", "light": "#1F2328"}  # bio text colour
 
-# "tokyonight" look of github-readme-stats
-CARD_BG, CARD_TITLE, CARD_TEXT = "#1A1B27", "#70A5FD", "#38BDAE"
+# same greys as the skill slots
+CARD_TOP, CARD_BOTTOM = "#494949", "#2B2B2B"
+CARD_TITLE, CARD_TEXT, CARD_MUTED, CARD_TRACK = "#F0F0F0", "#E6E6E6", "#A9A9A9", "#1E1E1E"
 TOP_N = 8
 FALLBACK_COLORS = {"Python": "#3572A5", "HTML": "#e34c26", "TypeScript": "#3178c6", "CSS": "#663399",
                    "C#": "#178600", "JavaScript": "#f1e05a", "ShaderLab": "#222c37", "GDScript": "#355570"}
@@ -82,11 +83,14 @@ def text_width(text, size):
 
 def lang_card(langs, cols, bx, by, bw, bh):
     """389x246 card, same layout as github-readme-stats 'Most Used Languages'."""
-    s = f'<rect x="{bx}" y="{by}" width="{bw}" height="{bh}" rx="6" fill="{CARD_BG}"/>'
+    s = (f'<defs><linearGradient id="slot" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{CARD_TOP}"/>'
+         f'<stop offset="1" stop-color="{CARD_BOTTOM}"/></linearGradient></defs>'
+         f'<rect x="{bx}" y="{by}" width="{bw}" height="{bh}" rx="8" fill="url(#slot)"/>'
+         f'<rect x="{bx + 0.5}" y="{by + 0.5}" width="{bw - 1}" height="{bh - 1}" rx="7.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.07"/>')
     s += (f'<text x="{bx + 27}" y="{by + 48}" font-family="NotoTaiLe, sans-serif" font-size="21" '
           f'font-weight="bold" fill="{CARD_TITLE}">Most Used Languages</text>')
     barx, bary, barw, barh = bx + 27, by + 70, bw - 54, 9
-    s += f'<clipPath id="bar"><rect x="{barx}" y="{bary}" width="{barw}" height="{barh}" rx="4"/></clipPath><g clip-path="url(#bar)">'
+    s += f'<rect x="{barx}" y="{bary}" width="{barw}" height="{barh}" rx="4" fill="{CARD_TRACK}"/><clipPath id="bar"><rect x="{barx}" y="{bary}" width="{barw}" height="{barh}" rx="4"/></clipPath><g clip-path="url(#bar)">'
     x = barx
     for lang, pct in langs:
         w = barw * pct / 100
@@ -98,9 +102,9 @@ def lang_card(langs, cols, bx, by, bw, bh):
         col, row = divmod(i, half)
         lx = bx + 31 + col * 180
         ly = by + 121 + row * 33
-        s += f'<circle cx="{lx}" cy="{ly - 4.5}" r="6.5" fill="{cols.get(lang, "#858585")}"/>'
+        s += f'<circle cx="{lx}" cy="{ly - 4.5}" r="6.5" fill="{cols.get(lang, "#858585")}" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1"/>'
         s += (f'<text x="{lx + 15}" y="{ly}" font-family="NotoTaiLe, sans-serif" font-size="15" '
-              f'fill="{CARD_TEXT}">{escape(lang)} {pct:.2f}%</text>')
+              f'fill="{CARD_TEXT}">{escape(lang)} <tspan fill="{CARD_MUTED}">{pct:.2f}%</tspan></text>')
     return s
 
 
