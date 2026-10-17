@@ -1,0 +1,54 @@
+{
+  "total_votes": 0,
+  "last": [],
+  "colors": [
+    {
+      "id": "blue",
+      "name": "Blue",
+      "hex": "#58A6FF",
+      "value": 0
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "hex": "#F0883E",
+      "value": 0
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "hex": "#56D364",
+      "value": 0
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "hex": "#F778BA",
+      "value": 0
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "hex": "#F2CC60",
+      "value": 0
+    },
+    {
+      "id": "purple",
+      "name": "Purple",
+      "hex": "#BC8CFF",
+      "value": 0
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#F85149",
+      "value": 0
+    },
+    {
+      "id": "cyan",
+      "name": "Cyan",
+      "hex": "#39C5CF",
+      "value": 0
+    }
+  ]
+}
