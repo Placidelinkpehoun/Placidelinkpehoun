@@ -43,4 +43,4 @@
 
 ## How it works
 
-Each color bar is a hyperlink embedded in an image. Clicking one opens a new issue that is already filled in: just press **Create**. A GitHub Action then reads the issue, adds **+5** to that color, redraws the chart and commits it to this repository. The bot thanks you in the issue and closes it, so come back to see your color grow!
+Each color bar is a hyperlink embedded in an image. Clicking one opens a new issue that is already filled in: just press **Create**. A GitHub Action then reads the issue, adds **+5** to that color, redraws the chart and commits it to this repository. The bot thanks you in the issue and closes it, so come back after **1 minutes** to see your color grow!
