@@ -1,6 +1,11 @@
 {
-  "total_votes": 0,
-  "last": [],
+  "total_votes": 1,
+  "last": [
+    {
+      "user": "Placidelinkpehoun",
+      "color": "Pink"
+    }
+  ],
   "colors": [
     {
       "id": "blue",
@@ -24,7 +29,7 @@
       "id": "pink",
       "name": "Pink",
       "hex": "#F778BA",
-      "value": 0
+      "value": 5
     },
     {
       "id": "yellow",
