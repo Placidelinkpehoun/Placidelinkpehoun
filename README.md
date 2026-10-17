@@ -17,7 +17,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
-  <img alt="WPN : Godot, Unity, VS Code, Git, Figma — ATK : Next.js, Django, Tailwind, Flutter, C#, GDScript, PostgreSQL — MAG : Aseprite, Clip Studio Paint, Affinity, Blender" src="assets/skills-dark.svg" width="100%">
+  <img alt="WEAPON : Godot, Unity, VS Code, Git, Figma — ATTACK : Next.js, Django, Tailwind, Flutter, C#, GDScript, PostgreSQL — MAGIC : Aseprite, Clip Studio Paint, Affinity, Blender" src="assets/skills-dark.svg" width="100%">
 </picture>
 
 <p><a href="https://www.linkedin.com/in/placide-linkpehoun-584157290/"><img alt="My social networks" src="assets/btn-social.svg" width="33.3%"></a><a href="https://github.com/PlacideLinkpehoun?tab=repositories"><img alt="My portfolio" src="assets/btn-portfolio.svg" width="33.3%"></a><a href="mailto:placidelinkpehoun@gmail.com"><img alt="My mail" src="assets/btn-mail.svg" width="33.3%"></a></p>
