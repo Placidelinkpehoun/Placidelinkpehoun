@@ -1,5 +1,5 @@
 {
-  "total_votes": 3,
+  "total_votes": 4,
   "last": [
     {
       "user": "Placidelinkpehoun",
@@ -12,6 +12,10 @@
     {
       "user": "placo18",
       "color": "Pink"
+    },
+    {
+      "user": "Drigva",
+      "color": "Orange"
     }
   ],
   "colors": [
@@ -25,7 +29,7 @@
       "id": "orange",
       "name": "Orange",
       "hex": "#F0883E",
-      "value": 0
+      "value": 5
     },
     {
       "id": "green",
