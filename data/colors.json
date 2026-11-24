@@ -1,5 +1,5 @@
 {
-  "total_votes": 4,
+  "total_votes": 5,
   "last": [
     {
       "user": "Placidelinkpehoun",
@@ -16,6 +16,10 @@
     {
       "user": "Drigva",
       "color": "Orange"
+    },
+    {
+      "user": "toni1991",
+      "color": "Purple"
     }
   ],
   "colors": [
@@ -53,7 +57,7 @@
       "id": "purple",
       "name": "Purple",
       "hex": "#BC8CFF",
-      "value": 0
+      "value": 5
     },
     {
       "id": "red",
